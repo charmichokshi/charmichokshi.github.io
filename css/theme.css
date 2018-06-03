@@ -27,7 +27,7 @@ body {
 .sidebar li {
     margin-top: .7em;
     line-height: 1em;
-    padding: 50px;
+    padding-left: 50px;
 }
 
 .sidebar a:hover {
